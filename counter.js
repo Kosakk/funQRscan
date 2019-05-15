@@ -1,3 +1,4 @@
-document.onload() {
-	alert('Hi');
-};
+counter = 0;
+
+addOne() {return counter++;}
+
