@@ -1,4 +1,4 @@
 counter = 0;
 
-addOne() {return counter++;}
+function addOne() {return counter++;}
 
